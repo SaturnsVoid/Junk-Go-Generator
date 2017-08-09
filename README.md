@@ -3,6 +3,8 @@ Generates random variables and functions, Currently set to generate random amout
 
 Saves as a file in the same directory
 
+Sample Output: https://play.golang.org/p/trEoitTjad (#11)
+
 # Other
 
 Go is a amazing and powerful programming language. If you already haven't, check it out; https://golang.org/
