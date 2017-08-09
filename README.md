@@ -1,6 +1,8 @@
 # Junk-Go-Generator
 Generates random variables and functions, Currently set to generate random amout between 5 and 100 variables and functions.
 
+Saves as a file in the same directory
+
 # Other
 
 Go is a amazing and powerful programming language. If you already haven't, check it out; https://golang.org/
